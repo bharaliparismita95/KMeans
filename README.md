@@ -1,2 +1,2 @@
 # KMeans
- Implementation of K-Means clustering algorithm from scratch in python.
+ Implementation of K-Means clustering algorithm on iris data from scratch in python.
